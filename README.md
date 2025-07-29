@@ -42,7 +42,7 @@ Identificar qué variables (sexo, clase social, edad, puerto de embarque) tuvier
 ## 🌐 Dashboard interactivo
 
 Puedes ver el dashboard en Looker Studio aquí:  
-👉 [https://lookerstudio.google.com/reporting/588ffe08-afa0-43c5-bb44-2f0272b6286a]
+👉 [Haz clic aquí para ver el dashboard](https://lookerstudio.google.com/reporting/588ffe08-afa0-43c5-bb44-2f0272b6286a)
 
 ---
 
